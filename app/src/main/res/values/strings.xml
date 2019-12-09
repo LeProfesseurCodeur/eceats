@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">eceats</string>
+    <string name="app_name">ECEats</string>
+    <string name="search_your_recipes">Rechercher...</string>
+    <string name="restaurant_categories">Aux alentours de vous</string>
+    <string name="appbar_scrolling_view_behavior">appbar</string>
 </resources>
